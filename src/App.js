@@ -1,4 +1,3 @@
-import video from "./assets/video/video-2.mp4";
 import logo from "./assets/img/logo.svg";
 import tg from "./assets/img/tg.svg";
 import tw from "./assets/img/tw.svg";
